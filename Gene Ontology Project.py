@@ -8,10 +8,11 @@
 from goatools import obo_parser
 
 
-# In[ ]:
+# In[6]:
 
 
-
+import wget
+import os
 
 
 # In[ ]:
