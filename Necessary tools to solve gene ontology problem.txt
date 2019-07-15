@@ -1,6 +1,9 @@
-1. First of all, we can't solve this problem with ordinary python tools .
+                                 Phase : A (GOATools Library)
 
-2. For solving this problem, we need an advance pyton tool named GOATools .
+
+1. First of all, we can't solve this problem with ordinary python library.
+
+2. For solving this problem, we need an advance pyton library named GOATools .
 
 3. This tool enables us to parse the Gene Ontology (GO) OBO file.
 
@@ -10,4 +13,13 @@
 
 6. It takes sometimes. Then GOATools automatically install on your ANACONDA.
 
-7. Lets try
+7. Lets try.
+
+                                Phase : B (wget and os Library)
+
+
+1. We also Require two more libraries wget and os,in order to download the GO OBO file.
+
+2. Now, the question is how to install the wget and os libraries on your ANACONDA.
+
+3. Don't worry about it. They are already automatically installed on your anaconda, when you installed GOATools.
