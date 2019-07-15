@@ -9,3 +9,5 @@
 5. It's simple. just open your anaconda prompt and write "pip install goatools" (without double quotation) then press Enter
 
 6. It takes sometimes. Then GOATools automatically install on your ANACONDA.
+
+7. Lets try
