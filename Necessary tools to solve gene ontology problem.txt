@@ -1,0 +1,11 @@
+1. First of all, we can't solve this problem with ordinary python tools .
+
+2. For solving this problem, we need an advance pyton tool named GOATools .
+
+3. This tool enables us to parse the Gene Ontology (GO) OBO file.
+
+4. Now, the question is how to install the GOATools on your ANACONDA.
+
+5. It's simple. just open your anaconda prompt and write "pip install goatools" (without double quotation) then press Enter
+
+6. It takes sometimes. Then GOATools automatically install on your ANACONDA.
